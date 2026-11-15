@@ -14,10 +14,9 @@
 
 <br />
 
-I am a software engineer with a BSCS and the founder of **[Faydox](https://faydox.com)**, a software company that builds
-websites, mobile apps, custom platforms and AI automation for businesses, alongside its own SaaS products.
-My focus is **Artificial Intelligence and Data Science**: building AI systems that are reliable, measurable and useful
-to real businesses.
+Founder of **[Faydox](https://faydox.com)**, where we build websites, mobile apps, custom platforms and AI automation
+for businesses, alongside our own SaaS products. I take products from idea to production, from multitenant databases
+and APIs to mobile apps and LLM agents, with a strong focus on **Artificial Intelligence and Data Science**.
 
 **Interests:** LLM agents &nbsp;·&nbsp; Retrieval augmented generation &nbsp;·&nbsp; Evaluation of AI systems &nbsp;·&nbsp; Applied machine learning
 
@@ -28,7 +27,7 @@ to real businesses.
 | Role | Organization | Focus |
 |:--|:--|:--|
 | **Founder** | [Faydox](https://faydox.com) | Software, mobile apps and AI automation for clients in education, healthcare and hospitality, plus SaaS products such as Fynledger and teammate. |
-| **Lead Software Developer** | International organization, remote | Leading the design and development of software products |
+| **Lead Software Developer** | Remote | Leading the design and development of software products |
 | **Mobile App Developer** | Cabree | Mobile apps for a SaaS taxi dispatch platform, built in Flutter |
 
 <br />
