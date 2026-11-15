@@ -73,8 +73,8 @@ the screen and saves every keystroke safely, with automatic backup recovery.
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,dart,php,cs,html,css&theme=dark" /><br /><br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,laravel,flutter,electron,dotnet,vite,tailwind,threejs&theme=dark" /><br /><br />
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart,php,html,css&theme=dark" /><br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,laravel,flutter,electron,vite,tailwind,threejs&theme=dark" /><br /><br />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,githubactions,git&theme=dark" />
 </p>
 
