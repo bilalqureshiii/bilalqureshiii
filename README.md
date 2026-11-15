@@ -1,59 +1,82 @@
-# Hi, I'm Bilal Qureshi 👋
+<div align="center">
 
-Software engineer from Pakistan with a BSCS, focusing on **Artificial Intelligence and Data Science**.
-I build complete products end to end, from multitenant databases to LLM agents, and I am pursuing a
-master's degree to go deeper into applied AI research.
+# Bilal Qureshi
 
-**Interests:** LLM agents · retrieval augmented generation (RAG) · evaluation of AI systems · data driven software
+**Lead Software Developer** &nbsp;·&nbsp; AI Agents &nbsp;·&nbsp; SaaS Products &nbsp;·&nbsp; Data Driven Systems
 
-## 💼 Experience
+<a href="mailto:qureshibilal46@gmail.com"><img src="https://img.shields.io/badge/Email-qureshibilal46%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://fynledger.com"><img src="https://img.shields.io/badge/Fynledger-fynledger.com-1F883D?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.npmjs.com/package/ghostnote"><img src="https://img.shields.io/badge/npm-ghostnote-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Pakistan-555555?style=flat-square" />
 
-* **Lead Software Developer** · Remote  
-  Leading the design and development of software products for an international organization.
-* **Mobile App Developer** · Cabree  
-  Building the mobile apps for Cabree, a SaaS taxi dispatch platform. *(Flutter, Dart)*
-* **Freelance Software Engineer**  
-  Designed and delivered custom management, accounting and attendance systems for clients in education, healthcare and hospitality.
+</div>
 
-## 🚀 Featured projects
+<br />
 
-### 🤖 teammate.
-**AI agents for small businesses.** Ready made AI teammates that answer customers on WhatsApp using the business's own data,
-book appointments, take orders, send reminders and hand over to a human when needed. Built on one multitenant agent engine,
-with each industry (clinics, salons and gyms, online shops) as a set of agent templates on top. Preparing for pilot launch.
+I am a software engineer with a BSCS who builds complete products end to end, from multitenant databases to LLM agents.
+Today my focus is **Artificial Intelligence and Data Science**: building agents that are reliable, measurable and useful
+to real businesses.
 
-* **Agent engine:** conversation state, intent and language detection, routing, tool calling, guardrails, confidence scoring and human takeover
-* **RAG knowledge base:** document chunking, embeddings in pgvector and hybrid search over each business's FAQs, documents and website
-* **LLM gateway:** DeepSeek and Gemini with model tiers, automatic fallback, cost tracking and Langfuse tracing
-* **Vision:** customers send a product photo, which is described by a vision model and matched against the shop's catalog
-* **Evaluation:** test sets for every agent with a critical failure gate (clinic receptionist 78/78, booking assistant 44/44, sales assistant 26/26)
-* **Security:** PostgreSQL row level security for tenant isolation, covered by cross tenant tests
+**Interests:** LLM agents &nbsp;·&nbsp; Retrieval augmented generation &nbsp;·&nbsp; Evaluation of AI systems &nbsp;·&nbsp; Applied machine learning
 
-`TypeScript` `NestJS` `Next.js` `PostgreSQL` `pgvector` `Redis` `BullMQ` `Docker`
+<br />
 
-### 📊 [Fynledger](https://fynledger.com) · live at fynledger.com
-**Cloud ERP for Pakistani businesses.** A multitenant SaaS for sales, purchases, double entry accounting, inventory,
-point of sale, manufacturing and payroll, with FBR tax invoice reporting and 50+ reports.
+## Experience
 
-* Every financial document posts a balanced journal entry, with approval workflows and 13 user roles
-* Point of sale that keeps working offline and syncs when the connection returns
-* Inventory with weighted average costing and batch and expiry tracking
-* Subscription plans, free trials and billing built in
+| Role | Organization | Focus |
+|:--|:--|:--|
+| **Lead Software Developer** | International organization, remote | Leading the design and development of software products |
+| **Mobile App Developer** | Cabree | Mobile apps for a SaaS taxi dispatch platform, built in Flutter |
+| **Freelance Software Engineer** | Independent | Management, accounting and attendance systems for education, healthcare and hospitality |
 
-`React` `Laravel` `MySQL` `Docker`
+<br />
 
-### 📝 [GhostNote](https://github.com/bilalqureshiii/GhostNote) · open source
-A note widget that stays on top, docks to the edge of the screen and launches from the terminal. Published on npm,
-with crash safe saving and automatic backup recovery.
+## Featured Work
 
-`Electron` `Next.js` `Node.js`
+### teammate.
+**AI agents for small businesses.** Ready made AI teammates that answer customers on WhatsApp from the business's own data,
+book appointments, take orders, send reminders and hand over to a human when needed. One multitenant agent engine powers
+every industry, with clinics, salons, gyms and online shops built as agent templates on top. Currently preparing for pilot launch.
 
-## 🛠️ Tech
+| | |
+|:--|:--|
+| **Agent engine** | Conversation state, intent and language detection, routing, tool calling, guardrails, confidence scoring, human takeover |
+| **Retrieval (RAG)** | Document chunking, embeddings in pgvector, hybrid search over each business's FAQs, documents and website |
+| **LLM gateway** | DeepSeek and Gemini with model tiers, automatic fallback, cost tracking and Langfuse tracing |
+| **Vision** | Customer product photos described by a vision model and matched against the shop's catalog |
+| **Evaluation** | Test sets for every agent with a critical failure gate: receptionist 78/78, booking 44/44, sales 26/26 |
+| **Security** | PostgreSQL row level security for tenant isolation, verified by cross tenant tests |
 
-**Languages:** Python · TypeScript · JavaScript · Dart · PHP · C# · SQL  
-**AI:** LLM agents · tool calling · RAG · embeddings · pgvector · evaluation · Langfuse  
-**Frameworks:** NestJS · Next.js · React · Laravel · Flutter · Electron · ASP.NET Core  
-**Data and infra:** PostgreSQL · MySQL · SQL Server · Redis · Docker · GitHub Actions
+<sub><b>Stack:</b> TypeScript · NestJS · Next.js · PostgreSQL · pgvector · Redis · BullMQ · Docker</sub>
 
-## 📫 Contact
-qureshibilal46@gmail.com
+### [Fynledger](https://fynledger.com)
+**Cloud ERP for Pakistani businesses, live at fynledger.com.** One multitenant platform for sales, purchases,
+double entry accounting, inventory, point of sale, manufacturing and payroll, with FBR tax invoice reporting and 50+ reports.
+Every financial document posts a balanced journal entry, the point of sale keeps working offline, and inventory is tracked
+with weighted average costing, batches and expiry dates.
+
+<sub><b>Stack:</b> React · Laravel · MySQL · Docker</sub>
+
+### [GhostNote](https://github.com/bilalqureshiii/GhostNote)
+**Open source desktop note widget, published on npm.** Launches from the terminal, stays on top, docks to the edge of
+the screen and saves every keystroke safely, with automatic backup recovery.
+
+<sub><b>Stack:</b> Electron · Next.js · Node.js</sub>
+
+<br />
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart,php,cs&theme=dark" /><br /><br />
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,nodejs,laravel,flutter,electron,dotnet&theme=dark" /><br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,githubactions,git&theme=dark" />
+</p>
+
+**AI:** LLM agents · tool calling · RAG · embeddings · pgvector · evaluation · Langfuse
+
+<br />
+
+<div align="center">
+<sub>Most of my work is commercial or client code and stays private. Walkthroughs are available on request.</sub>
+</div>
