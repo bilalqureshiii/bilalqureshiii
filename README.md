@@ -31,7 +31,7 @@ with each industry (clinics, salons and gyms, online shops) as a set of agent te
 
 `TypeScript` `NestJS` `Next.js` `PostgreSQL` `pgvector` `Redis` `BullMQ` `Docker`
 
-### 📊 Fynledger
+### 📊 [Fynledger](https://fynledger.com) · live at fynledger.com
 **Cloud ERP for Pakistani businesses.** A multitenant SaaS for sales, purchases, double entry accounting, inventory,
 point of sale, manufacturing and payroll, with FBR tax invoice reporting and 50+ reports.
 
@@ -54,3 +54,6 @@ with crash safe saving and automatic backup recovery.
 **AI:** LLM agents · tool calling · RAG · embeddings · pgvector · evaluation · Langfuse  
 **Frameworks:** NestJS · Next.js · React · Laravel · Flutter · Electron · ASP.NET Core  
 **Data and infra:** PostgreSQL · MySQL · SQL Server · Redis · Docker · GitHub Actions
+
+## 📫 Contact
+qureshibilal46@gmail.com
